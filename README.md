@@ -1,4 +1,4 @@
-# bitcoin-mempool-visualizer
+# Bitcoin-Mempool-Visualizer
 Bitcoin Mempool Visualization Tool for Bitcoin 2025 Hackathon 
 
 A real-time dashboard for Bitcoin mempool analysis and fee optimization, developed for the Bitcoin 2025 Hackathon.
